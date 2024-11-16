@@ -1,3 +1,3 @@
-# trustless-bridge
+# Trustless Bridge
 
-This is a monorepo for hackathon project "Trustless Bridge"
+Trustless Bridge bridges ETH from Optimism to Scroll leveraging L1SLOAD precompile.
