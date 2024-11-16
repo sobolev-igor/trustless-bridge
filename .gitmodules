@@ -1,0 +1,3 @@
+[submodule "trustless-bridge-contracts"]
+	path = trustless-bridge-contracts
+	url = https://github.com/dry914/trustless-bridge-contracts.git
